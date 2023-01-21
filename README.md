@@ -1,1 +1,1 @@
-# Practice
+# Tic Tac Toe
